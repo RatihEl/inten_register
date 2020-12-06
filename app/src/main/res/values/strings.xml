@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">register1</string>
+    <string name="text_register">Register</string>
+    <string name="text_username">Username</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">******</string>
+    <string name="text_confirmpass">******</string>
+    <string name="text_haveaccount">Already Have an Account</string>
+    <string name="txt_error">harus diisi ya</string>
+    <string name="txt_error1">semua data harus diisi</string>
+    <string name="txt_errorr">Semua data harus diisi</string>
+    <string name="txt_error2">Semua data harus diisi</string>
+    <string name="txt_error3">Semua data harus diisi</string>
+    <string name="txt_user">Username</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="txt_confirm">Confirm Password</string>
+    <string name="txt_passwordd">banana</string>
+    <string name="txt_hallo">Hallo</string>
+    <string name="text_your_data">Your Data</string>
+    <string name="txt_username">Ratih Eldina</string>
+    <string name="text_emailee">email</string>
+    <string name="text_passss">banana</string>
+</resources>
